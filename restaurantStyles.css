@@ -1,0 +1,13 @@
+<link href="https://fonts.googleapis.com/css?family=Jim+Nightshade" rel="stylesheet">
+
+head {
+	font-family: 'Jim Nightshade', cursive;
+	text-align: center;
+	text-decoration: underline;
+	/*color: blue;*/
+}
+
+.footer {
+	text-align: right;
+	color: reds;
+}
